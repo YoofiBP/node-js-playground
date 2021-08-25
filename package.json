@@ -1,0 +1,28 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^2.22.1",
+    "@types/express": "^4.17.11",
+    "axios": "^0.21.1",
+    "date-fns": "^1.29.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "promise.allsettled": "^1.0.4",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "faker": "^5.5.3",
+    "mysql-db-seed": "0.0.4",
+    "prisma": "^2.22.1",
+    "sequelize-cli": "^6.2.0"
+  }
+}
